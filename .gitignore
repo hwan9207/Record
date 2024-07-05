@@ -1,3 +1,6 @@
+# Created by https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,eclipse,java
+
 ### Eclipse ###
 .metadata
 bin/
@@ -34,6 +37,9 @@ local.properties
 
 # sbteclipse plugin
 .target
+*/target/*
+/Servers
+/.metadata
 
 # Tern plugin
 .tern-project
