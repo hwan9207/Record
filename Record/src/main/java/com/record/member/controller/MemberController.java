@@ -22,6 +22,9 @@ public class MemberController {
 		System.out.println("Message : " + iwgh);
 		System.out.println("Message : " + iwgh);
 		System.out.println("Message : " + iwgh);
+		System.out.println("Message : " + iwgh);
+		System.out.println("Message : " + iwgh);
+		System.out.println("Message : " + iwgh);
 		return iwgh;
 		
 	}
