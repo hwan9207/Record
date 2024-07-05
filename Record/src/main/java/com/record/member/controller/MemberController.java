@@ -18,7 +18,15 @@ public class MemberController {
 		String iwgh;
 		iwgh = "iWannaGoHome";
 		System.out.println("Message : " + iwgh);
+		System.out.println("Message : " + iwgh);
+		System.out.println("Message : " + iwgh);
+		System.out.println("Message : " + iwgh);
+		System.out.println("Message : " + iwgh);
+		System.out.println("Message : " + iwgh);
+		System.out.println("Message : " + iwgh);
+		System.out.println("Message : " + iwgh);
 		return iwgh;
+		
 	}
 }
 
