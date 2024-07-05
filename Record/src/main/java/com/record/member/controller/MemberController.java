@@ -13,4 +13,12 @@ public class MemberController {
 		
 	}
 	
+	public String iWannaGoHome() {
+		
+		String iwgh;
+		iwgh = "iWannaGoHome";
+		System.out.println("Message : " + iwgh);
+	}
 }
+
+	
