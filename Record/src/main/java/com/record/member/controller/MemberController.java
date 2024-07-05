@@ -9,4 +9,8 @@ public class MemberController {
 		
 	}
 	
+	public void wgwgw() {
+		
+	}
+	
 }
